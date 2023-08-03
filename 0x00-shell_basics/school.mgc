@@ -1,2 +1,2 @@
-o string SCHOOL data
-!:mime school
+#!/bin/bash
+o string SCHOOL data !:mime school
