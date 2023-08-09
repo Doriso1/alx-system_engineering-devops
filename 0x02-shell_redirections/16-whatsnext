@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - - | cut -d, -f1
+grep -i "root"-A3/etc/passwd
